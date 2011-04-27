@@ -42,7 +42,7 @@ libname dat 'C:\Documents and Settings\pardre1\My Documents\vdw\chemo_codes\data
     from    mdb.procedures as p LEFT JOIN
             dat.px_codes as a
     on      p.px = a.px AND
-            p.code_type = a.code_type
+            p.code_type = substr(a.code_type, 1, 4)
     where   a.px IS NULL and p.code_type ne 'LHGR'
     order by chemo_type, px
     ;
@@ -63,7 +63,7 @@ libname dat 'C:\Documents and Settings\pardre1\My Documents\vdw\chemo_codes\data
     from    mdb.procedures as p RIGHT JOIN
             dat.px_codes as a
     on      p.px = a.px AND
-            p.code_type = a.code_type
+            p.code_type = substr(a.code_type, 1, 4)
     where   p.px IS NULL
     order by chemo_type, px
     ;
@@ -76,10 +76,11 @@ libname dat 'C:\Documents and Settings\pardre1\My Documents\vdw\chemo_codes\data
   %** Does not do any deletes--do those manually. ;
   proc sql ;
     %** Drugs. ;
+    reset noprint ;
     select max(list_version) + 1 into :new_drug_list_version
     from mdb.drugs
     ;
-
+    reset print ;
     create table new_drugs as
     select r.*
     from mdb.drugs as d RIGHT JOIN
@@ -107,7 +108,7 @@ libname dat 'C:\Documents and Settings\pardre1\My Documents\vdw\chemo_codes\data
     from    mdb.procedures as p RIGHT JOIN
             dat.px_codes as a
     on      p.px = a.px AND
-            p.code_type = a.code_type
+            p.code_type = substr(a.code_type, 1, 4)
     where   p.px IS NULL
     order by chemo_type, px
     ;
@@ -115,18 +116,18 @@ libname dat 'C:\Documents and Settings\pardre1\My Documents\vdw\chemo_codes\data
     title "About to insert these procs." ;
     select * from new_px ;
     title " " ;
-
+    reset noprint ;
     select max(list_version) + 1 into :new_list_version
     from mdb.procedures
     ;
-
+    reset print ;
     insert into mdb.procedures(PX
                           , CODE_TYPE
                           , CHEMO_TYPE
                           , DESCRIPTION
                           , list_version)
     select PX
-         , CODE_TYPE
+         , substr(CODE_TYPE, 1, 4)
          , CHEMO_TYPE
          , DESCRIPTION
          , &new_list_version
@@ -135,7 +136,19 @@ libname dat 'C:\Documents and Settings\pardre1\My Documents\vdw\chemo_codes\data
   quit ;
 %mend update ;
 
-%update ;
+%macro output ;
+  %** Writes the tables out as sas dsets. ;
+  data dat.chemo_procedure_codess ;
+    set mdb.procedures ;
+  run ;
+
+  data dat.chemo_drug_codes ;
+    set mdb.drugs ;
+  run ;
+%mend output ;
+
+%**update ;
+%output ;
 
 options orientation = landscape ;
 
