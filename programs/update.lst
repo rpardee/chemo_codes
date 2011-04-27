@@ -1,0 +1,383 @@
+NDCs we have that arent in Addies dset                                                                             07:14 Wednesday, April 27, 2011   1
+
+                                                                                                                    conentration_
+ndc          description                                                   chemo_type  list_version  concentration  units
+---------------------------------------------------------------------------------------------------------------------------------
+00024155001  PORFIMER SODIUM                                               O                      1              .               
+Procs we have that arent in Addies dset                                                                            07:14 Wednesday, April 27, 2011   2
+
+                                                                                                         chemo_        list_
+px          code_type  description                                                                       type        version  concentration
+conentration_
+units          comments
+-------------------------------------------------------------------------------------------------------------------------------------------
+J2430       HCPC       Pamidronate disodium 30mg                                                         O                 1              .
+                                      
+
+J3487       HCPC       Zoledronic Acid 1mg                                                               O                 1              .
+                                      
+
+J8501       HCPC       Aprepitant 5mg                                                                    O                 1              .
+                                      
+
+K0512       HCPC       Dexamethasone inh sol con                                                         O                 3              .
+                                      
+
+K0513       HCPC       Dexamethasone inh sol u d                                                         O                 3              .
+                                      
+
+J1055       HCPC       INJECTION, MEDROXYPROGESTERONE ACETATE FOR CONTRACEPTIVE USE, 150 MG              R                 3              .
+                                      
+
+00.10       ICD9       IMPLANTATION OF CHEMOTHERAPEUTIC AGENT                                            U                 4              .
+               had been mistakenly    
+               included in diagnosis  
+               table.  Sometimes used 
+               to signify non-cancer  
+               therapy--use carefully 
+
+90760       CPT4       Intravenous infusion, hydration: initial, 31 minutes to 1 hour                    U                 1              .
+                                      
+
+90761       CPT4       Intravenous infusion, hydration: each additional hour (List separately in additi  U                 1              .
+                                      
+
+90769       CPT4       Subcutaneous infusion for therapy or prophylaxis (specify substance or drug): in  U                 1              .
+                                      
+
+90770       CPT4       Subcutaneous infusion for therapy or prophylaxis (specify substance or drug): ea  U                 1              .
+                                      
+Procs we have that arent in Addies dset                                                                            07:14 Wednesday, April 27, 2011   3
+
+                                                                                                         chemo_        list_
+px          code_type  description                                                                       type        version  concentration
+conentration_
+units          comments
+-------------------------------------------------------------------------------------------------------------------------------------------
+90771       CPT4       Subcutaneous infusion for therapy or prophylaxis (specify substance or drug): ad  U                 1              .
+                                      
+
+J9175       HCPC       Injection, Elliotts  B solution, 1 ml                                             U                 1              .
+                                      
+
+Q0166       HCPC       Granisetron HCI 1 mg oral                                                         U                 1              .
+                                      
+
+Q0167       HCPC       Dronabinol 2.5 mg oral                                                            U                 1              .
+                                      
+
+Q0168       HCPC       Dronabinol 5 mg oral                                                              U                 1              .
+                                      
+
+Q0169       HCPC       Promethazine HCI 12.5mg oral                                                      U                 1              .
+                                      
+
+Q0170       HCPC       Promethazine HCI 25mg oral                                                        U                 1              .
+                                      
+
+Q0171       HCPC       Chlorpromazine HCI 10mg oral                                                      U                 1              .
+                                      
+
+Q0172       HCPC       Chlorpromazine HCI 25mg oral                                                      U                 1              .
+                                      
+
+Q0173       HCPC       Trimethobenzamide HCI 250mg                                                       U                 1              .
+                                      
+
+Q0174       HCPC       Thiethylperazine Maleate 10mg                                                     U                 1              .
+                                      
+
+Q0175       HCPC       Perphenazine 4mg oral                                                             U                 1              .
+                                      
+Procs we have that arent in Addies dset                                                                            07:14 Wednesday, April 27, 2011   4
+
+                                                                                                         chemo_        list_
+px          code_type  description                                                                       type        version  concentration
+conentration_
+units          comments
+-------------------------------------------------------------------------------------------------------------------------------------------
+Q0176       HCPC       Perphenazine 8mg oral                                                             U                 1              .
+                                      
+
+Q0177       HCPC       Hydroxyzine pamoate 25mg                                                          U                 1              .
+                                      
+
+Q0178       HCPC       Hydroxyzine pamoate 50mg                                                          U                 1              .
+                                      
+
+Q0179       HCPC       Ondansetron HCI 8 mg oral                                                         U                 1              .
+                                      
+
+Q0180       HCPC       Dolasetron Mesylate Oral                                                          U                 1              .
+                                      
+
+Q0181       HCPC       Unspecified oral ant-emetic                                                       U                 1              .
+                                      
+
+S0183       HCPC       Prochloreperazine Maleate, 5MG, Oral (For Circumstances Falling Under the Medica  U                 1              .
+                                      
+NDCs in Addies dset that arent in ours.                                                                            07:14 Wednesday, April 27, 2011   5
+
+                                                                CHEMO_                                                                        study_
+NDC          GENERIC_NAME                                       TYPE     BRAND_NAME                                                             drug
+----------------------------------------------------------------------------------------------------------------------------------------------------
+00338004910  IDARUBICIN IV SYRINGE                              A                                                                                  0
+38779065206  DOXORUBICIN HCL (U.S.P.)                           A        INJECTION, DOXORUBICIN HYDROCHLORIDE, 10 MG                               0
+38779065209  DOXORUBICIN HCL (U.S.P.)                           A        INJECTION, DOXORUBICIN HYDROCHLORIDE, 10 MG                               0
+49452243701  DOXORUBICIN HCL (U.S.P.)                           A        INJECTION, DOXORUBICIN HYDROCHLORIDE, 10 MG                               0
+00009003604  FLUOXYMESTERONE                                    H        HALOTESTIN 10MG TABL                                                      0
+00024030306  DANAZOL                                            H        DANOCRINE 50MG CAPSU                                                      0
+00024030406  DANAZOL                                            H        DANOCRINE 100MG CAPS                                                      0
+00024030506  DANAZOL                                            H        DANOCRINE 200MG CAPS                                                      0
+00555063302  DANAZOL                                            H        DANAZOL CAP 50MG                                                          0
+00555063402  DANAZOL                                            H        DANAZOL CAP 100MG                                                         0
+00555063502  DANAZOL                                            H        DANAZOL CAP 200MG                                                         0
+50349008301  DANAZOL                                            H        DANAZOL 200MG CAPSUL                                                      0
+00187200601  INFERGEN (1X0.5ML,PF) 30 MCG/ML                    I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+00187200605  INFERGEN (6X0.5ML,PF) 30 MCG/ML                    I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+00187200702  INFERGEN (1X0.3ML,PF) 30 MCG/ML                    I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+00187200706  INFERGEN (6X0.3ML,PF) 30 MCG/ML                    I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+54569443300  AVONEX (S.D.V.) 33 MCG                             I        INJECTION, INTERFERON BETA-1A, 11 MCG FOR INTRAMUSCULAR USE               0
+54746000101  ALFERON N (M.D.V.) 5 Million IU/ML                 I        INJECTION, INTERFERON, ALFA-N3, (HUMAN LEUKOCYTE DERIVED),                0
+                                                                         250,000 IU                                                                 
+55513055401  INFERGEN (9MCG,S.D.V.,PF) 30 MCG/ML                I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+55513055406  INFERGEN (6X9MCG,S.D.V.,PF) 30 MCG/ML              I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+55513056201  INFERGEN (15 MCG,S.D.V.,PF) 30 MCG/ML              I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+55513056206  INFERGEN (6X15MCG,S.D.V.,PF) 30 MCG/ML             I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+64116001101  ACTIMMUNE (VIAL) 2 Million IU/0.5 ML               I        INJECTION, INTERFERON, GAMMA 1-B, 3 MILLION UNITS                         0
+64116001112  ACTIMMUNE (VIAL) 2 Million IU/0.5 ML               I        INJECTION, INTERFERON, GAMMA 1-B, 3 MILLION UNITS                         0
+64116003101  INFERGEN (15MCG,PF,SINGLEJECT) 30 MCG/ML           I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+64116003106  INFERGEN (PF,SINGLEJECT) 30 MCG/ML                 I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+64116003124  INFERGEN (PF,SINGLEJECT) 30 MCG/ML                 I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+64116003901  INFERGEN (9MCG,S.D.V.,PF) 30 MCG/ML                I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+64116003906  INFERGEN (6X9MCG,S.D.V.,PF) 30 MCG/ML              I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+64116003924  INFERGEN (24X9MCG,S.D.V.,PF) 30 MCG/ML             I        INJECTION, INTERFERON ALFACON-1, RECOMBINANT, 1 MICROGRAM                 0
+00007420511  TOPOTECAN HYDROCHLORIDE                            O        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+00007420711  TOPOTECAN HYDROCHLORIDE                            O        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+00015301260  BICNU (W/DILUENT) 100 MG                           O        INJECTION, CARMUSTINE, 100 MG                                             0
+00024582005  OFORTA (INNER PACK) 10 MG                          O        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+00024582020  OFORTA (4X5 STRIP,FILM COATED) 10 MG               O        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+00078056651  EVEROLIMUS                                         O        AFINITOR TAB 5MG                                                          0
+00078056751  EVEROLIMUS                                         O        AFINITOR TAB 10MG                                                         0
+NDCs in Addies dset that arent in ours.                                                                            07:14 Wednesday, April 27, 2011   6
+
+                                                                CHEMO_                                                                        study_
+NDC          GENERIC_NAME                                       TYPE     BRAND_NAME                                                             drug
+----------------------------------------------------------------------------------------------------------------------------------------------------
+00173080409  PAZOPANIB HCL                                      O        VOTRIENT TAB 200MG                                                        0
+00173080802  OFATUMUMAB                                         O        ARZERRA CON 100/5ML UD                                                    0
+00264151031  FLUOROURACIL  IVPB                                 O                                                                                  0
+00264151032  LEUCOVORIN IVPB                                    O                                                                                  0
+00264151036  FLUOROURACIL  IVPB                                 O                                                                                  0
+00264180032  DEXAMETHASONE IVPB                                 O                                                                                  0
+00264751000  FLUOROURACIL  IVPB                                 O                                                                                  0
+00264751010  FLUOROURACIL  IVPB                                 O                                                                                  0
+00264751020  FLUOROURACIL  IVPB                                 O                                                                                  0
+00338001701  FLUOROURACIL  IVPB                                 O                                                                                  0
+00338001702  CARBOPLATIN IVPB                                   O                                                                                  0
+00338001703  IRINOTECAN IVPB                                    O                                                                                  0
+00338001710  FLUOROURACIL  IVPB                                 O                                                                                  0
+00338001718  LEUCOVORIN IVPB                                    O                                                                                  0
+00338001731  DEXAMETHASONE IVPB                                 O                                                                                  0
+00338001738  LEUCOVORIN IVPB                                    O                                                                                  0
+00338004903  PACLITAXEL IVPB                                    O                                                                                  0
+00338004938  PEMETREXED-NS IVPB                                 O                                                                                  0
+00338011704  IXABEPILONE IVPB                                   O                                                                                  0
+00338634602  LEUCOVORIN IVPB                                    O                                                                                  0
+00338635104  LEUCOVORIN INJ SYG                                 O                                                                                  0
+00517490525  DEXAMETHASONE IVPB                                 O                                                                                  0
+00517493025  DEXAMETHASONE IVPB                                 O                                                                                  0
+00555198414  PACLITAXEL (1X16.7ML,USP,MDV) 6 MG/ML              O        INJECTION, PACLITAXEL, 30 MG                                              0
+00555198514  PACLITAXEL (1X50ML,USP,MDV) 6 MG/ML                O        INJECTION, PACLITAXEL, 30 MG                                              0
+00703465801  DACARBAZINE (VIAL) 500 MG                          O        DACARBAZINE, 200 MG                                                       0
+08881571121  RITUXIMAB IVPB                                     O                                                                                  0
+10019095711  CYCLOPHOSPHAMIDE (SDV,USP,PF) 2 GM                 O        CYCLOPHOSPHAMIDE, 2.0 GRAM                                                0
+10106006101  ARSENIC TRIOXIDE (A.C.S., REAGENT)                 O        INJECTION, ARSENIC TRIOXIDE, 1 MG                                         0
+10106006104  ARSENIC TRIOXIDE (A.C.S., REAGENT)                 O        INJECTION, ARSENIC TRIOXIDE, 1 MG                                         0
+10106006201  ARSENIC TRIOXIDE (REAGENT)                         O        INJECTION, ARSENIC TRIOXIDE, 1 MG                                         0
+10106006204  ARSENIC TRIOXIDE (REAGENT)                         O        INJECTION, ARSENIC TRIOXIDE, 1 MG                                         0
+12280034630  ARIMIDEX 1 MG                                      O        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+15210040336  OTN MITOXANTRONE (MDV,USP,PF,CONCENTRATE) 2 MG/ML  O        INJECTION, MITOXANTRONE HYDROCHLORIDE, PER 5 MG                           0
+38779050604  CYCLOPHOSPHAMIDE (U.S.P.)                          O        CYCLOPHOSPHAMIDE, LYOPHILIZED, 1.0 GRAM                                   0
+38779050605  CYCLOPHOSPHAMIDE (U.S.P.)                          O        CYCLOPHOSPHAMIDE, LYOPHILIZED, 1.0 GRAM                                   0
+38779055309  MITOMYCIN (U.S.P.)                                 O        MITOMYCIN, 20 MG                                                          0
+38779072203  VINBLASTINE SULFATE (U.S.P.)                       O        INJECTION, VINBLASTINE SULFATE, 1 MG                                      0
+NDCs in Addies dset that arent in ours.                                                                            07:14 Wednesday, April 27, 2011   7
+
+                                                                CHEMO_                                                                        study_
+NDC          GENERIC_NAME                                       TYPE     BRAND_NAME                                                             drug
+----------------------------------------------------------------------------------------------------------------------------------------------------
+38779072206  VINBLASTINE SULFATE (U.S.P.)                       O        INJECTION, VINBLASTINE SULFATE, 1 MG                                      0
+38779072209  VINBLASTINE SULFATE (U.S.P.)                       O        INJECTION, VINBLASTINE SULFATE, 1 MG                                      0
+38779078403  ETOPOSIDE (U.S.P.)                                 O        ETOPOSIDE, 100 MG                                                         0
+38779078406  ETOPOSIDE (U.S.P.)                                 O        ETOPOSIDE, 100 MG                                                         0
+48818000101  PRALATREXATE                                       O        FOLOTYN INJ 20MG/ML UD                                                    0
+48818000102  PRALATREXATE                                       O        FOLOTYN INJ 40MG/2ML UD                                                   0
+49452207801  CISPLATIN (U.S.P.)                                 O        CISPLATIN, POWDER OR S0LUTION, PER 10 MG                                  0
+49452207802  CISPLATIN (U.S.P.)                                 O        CISPLATIN, POWDER OR S0LUTION, PER 10 MG                                  0
+49452207803  CISPLATIN (U.S.P.)                                 O        CISPLATIN, POWDER OR S0LUTION, PER 10 MG                                  0
+49452317504  5-FLUOROURACIL (U.S.P.)                            O        INJECTION, FLUOROURACIL, 500 MG                                           0
+49452478501  MITOMYCIN (U.S.P.)                                 O        MITOMYCIN, 20 MG                                                          0
+49452478502  MITOMYCIN (U.S.P.)                                 O        MITOMYCIN, 20 MG                                                          0
+49452811201  VINBLASTINE SULFATE (U.S.P.)                       O        INJECTION, VINBLASTINE SULFATE, 1 MG                                      0
+49452811202  VINBLASTINE SULFATE (U.S.P.)                       O        INJECTION, VINBLASTINE SULFATE, 1 MG                                      0
+49452811203  VINBLASTINE SULFATE (U.S.P.)                       O        INJECTION, VINBLASTINE SULFATE, 1 MG                                      0
+49452811401  VINCRISTINE SULFATE (U.S.P.)                       O        VINCRISTINE SULFATE, 1 MG                                                 0
+49452811402  VINCRISTINE SULFATE (U.S.P.)                       O        VINCRISTINE SULFATE, 1 MG                                                 0
+49452811404  VINCRISTINE SULFATE (U.S.P.)                       O        VINCRISTINE SULFATE, 1 MG                                                 0
+50419052103  BETASERON (W/DEXTROSE) 0.3 MG                      O        INJECTION INTERFERON BETA-1B, 0.25 MG (CODE MAY BE USED FOR               0
+                                                                         MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A          
+                                                                         PHYSICIAN, NOT FOR  USE WHEN DRUG IS SELF ADMINISTERED)                    
+50419052115  BETASERON (W/DEXTROSE) 0.3 MG                      O        INJECTION INTERFERON BETA-1B, 0.25 MG (CODE MAY BE USED FOR               0
+                                                                         MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A          
+                                                                         PHYSICIAN, NOT FOR  USE WHEN DRUG IS SELF ADMINISTERED)                    
+50419052315  BETASERON (W/MANNITOL) 0.3 MG                      O        INJECTION INTERFERON BETA-1B, 0.25 MG (CODE MAY BE USED FOR               0
+                                                                         MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A          
+                                                                         PHYSICIAN, NOT FOR  USE WHEN DRUG IS SELF ADMINISTERED)                    
+50419052325  BETASERON (15 BLISTER UNITS,PF) 0.3 MG-0.54%       O        INJECTION INTERFERON BETA-1B, 0.25 MG (CODE MAY BE USED FOR               0
+                                                                         MEDICARE WHEN DRUG ADMINISTERED UNDER THE DIRECT SUPERVISION OF A          
+                                                                         PHYSICIAN, NOT FOR  USE WHEN DRUG IS SELF ADMINISTERED)                    
+51552107609  CISPLATIN (U.S.P.)                                 O        CISPLATIN, POWDER OR S0LUTION, PER 10 MG                                  0
+51927144100  ARSENIC TRIOXIDE (TECHNICAL)                       O        INJECTION, ARSENIC TRIOXIDE, 1 MG                                         0
+51927236200  DACARBAZINE (U.S.P.)                               O        DACARBAZINE, 200 MG                                                       0
+51927276200  TRIETHYLENETHIOPHOSPHORAMIDE/T                     O        INJECTION, THIOTEPA, 15 MG                                                0
+51927277200  ETOPOSIDE (U.S.P.) 1 GM                            O        INJECTION, ETOPOSIDE, 10 MG                                               0
+54569498300  METHOTREXATE SODIUM (VIAL) 25 MG/ML                O        METHOTREXATE SODIUM, 5 MG                                                 0
+54868017300  METHOTREXATE SODIUM (PF) 25 MG/ML                  O        METHOTREXATE SODIUM, 5 MG                                                 0
+54868414303  XELODA 150 MG                                      O        CAPECITABINE, ORAL, 150 MG                                                0
+NDCs in Addies dset that arent in ours.                                                                            07:14 Wednesday, April 27, 2011   8
+
+                                                                CHEMO_                                                                        study_
+NDC          GENERIC_NAME                                       TYPE     BRAND_NAME                                                             drug
+----------------------------------------------------------------------------------------------------------------------------------------------------
+54868480900  METHOTREXATE SODIUM (VIAL, L.P.P.) 25 MG/ML        O        METHOTREXATE SODIUM, 5 MG                                                 0
+55390010601  ALLOPURINOL SODIUM (S.D.V.,PF) 500 MG              O        NOT OTHERWISE CLASSIFIED, ANTINEOPLASTIC DRUGS                            0
+57884052207  PURINETHOL 50 MG                                   O        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+59075073015  NATALIZUMAB 300 MG/15 ML IV SOLN                   O                                                                                  0
+59730560101  ALOPRIM (S.D.V.,PF) 500 MG                         O        NOT OTHERWISE CLASSIFIED, ANTINEOPLASTIC DRUGS                            0
+61703036318  OXALIPLATIN-D5W IVPB                               O                                                                                  0
+62701001001  MITOMYCIN (VIAL) 5 MG                              O        MITOMYCIN, 5 MG                                                           0
+62701001101  MITOMYCIN (VIAL) 20 MG                             O        MITOMYCIN, 20 MG                                                          0
+62991148601  FLUOROURACIL (U.S.P.)                              O        INJECTION, FLUOROURACIL, 500 MG                                           0
+62991148603  FLUOROURACIL (U.S.P.)                              O        INJECTION, FLUOROURACIL, 500 MG                                           0
+63323016501  DEXAMETHASONE IVPB                                 O                                                                                  0
+63323073310  MESNA  IVPB                                        O                                                                                  0
+63629126201  AROMASIN 25 MG                                     O        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+64370053201  NAVELBINE (1X1ML,SINGLE USE,PF) 10 MG/ML           O        INJECTION, VINORELBINE TARTRATE, 10 MG                                    0
+64370053202  NAVELBINE (1X5ML,SINGLE USE,PF) 10 MG/ML           O        INJECTION, VINORELBINE TARTRATE, 10 MG                                    0
+66105083201  NOLVADEX 10 MG                                     O        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+66105083203  NOLVADEX 10 MG                                     O        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+66105083206  NOLVADEX 10 MG                                     O        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+66105083209  NOLVADEX 10 MG                                     O        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+66105083210  NOLVADEX 10 MG                                     O        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+66758004002  METHOTREXATE                                       O                                                                                  0
+67979050001  VANTAS 50 MG                                       O        HISTRELIN IMPLANT, 50 MG                                                  0
+68152010100  LEVOLEUCOVORIN CALCIUM                             O        FUSILEV INJ 50MG UD                                                       0
+99999015245  CETUXIMAB IVPB                                     O                                                                                  0
+99999015436  BORTEZOMIB 1 MG/ML IN NS IV SYRINGE                O                                                                                  0
+99999090110  STUDY NSABP B-40: GEMCITABINE                      O                                                                                  1
+99999090128  STUDY N0147: CETUXIMAB                             O                                                                                  1
+99999090148  STUDY E5103 ARM A, B AND C: BEVACIZUMAB OR PLACEB  O                                                                                  1
+99999090151  STUDY E5103 ARM D: BEVACIZUMAB                     O                                                                                  1
+99999090174  STUDY B-44: BEVACIZUMAB                            O        DIETHYLSTILBESTROL                                                        1
+99999090210  STUDY B-41: LAPATINIB 250 MG ORAL TAB              O        DIETHYLSTILBESTROL                                                        1
+00003057340  FLUOXYMESTERONE                                    R        ORA-TESTRYL                                                               0
+00009001401  FLUOXYMESTERONE                                    R        HALOTESTIN 2MG TABLE                                                      0
+00009001906  FLUOXYMESTERONE                                    R        HALOTESTIN 5MG TABLE                                                      0
+00093090001  KETOCONAZOLE                                       R        KETOCONAZOLE TAB 200                                                      0
+00378026101  KETOCONAZOLE                                       R        KETOCONAZOLE TAB 200                                                      0
+00406805003  LEUPROLIDE ACETATE                                 R        LEUPROLIDE ACETATE, PER 1 MG                                              0
+00677170001  KETOCONAZOLE                                       R        KETOCONAZOLE TAB 200                                                      0
+NDCs in Addies dset that arent in ours.                                                                            07:14 Wednesday, April 27, 2011   9
+
+                                                                CHEMO_                                                                        study_
+NDC          GENERIC_NAME                                       TYPE     BRAND_NAME                                                             drug
+----------------------------------------------------------------------------------------------------------------------------------------------------
+00677170007  KETOCONAZOLE                                       R        KETOCONAZOLE TAB 200                                                      0
+00725013801  FLUOXYMESTERONE                                    R        FLUOXYMESTERONE 5MG                                                       0
+00725013901  FLUOXYMESTERONE                                    R        FLUOXYMESTERONE 10MG                                                      0
+00832008600  FLUOXYMESTERONE                                    R        FLUOXYMESTERONE TAB                                                       0
+50111062101  KETOCONAZOLE                                       R        KETOCONAZOLE TAB 200                                                      0
+50111062102  KETOCONAZOLE                                       R        KETOCONAZOLE TAB 200                                                      0
+50458022006  KETOCONAZOLE                                       R        NIZORAL 200MG TABLET                                                      0
+50458022010  KETOCONAZOLE                                       R        NIZORAL TAB 200MG                                                         0
+51672402601  KETOCONAZOLE                                       R        KETOCONAZOLE TAB 200                                                      0
+51672402606  KETOCONAZOLE                                       R        KETOCONAZOLE TAB 200                                                      0
+52959092830  MEGESTROL ACETATE 20 MG                            R        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+53489055401  KETOCONAZOLE                                       R        KETOCONAZOLE TAB 200                                                      0
+53489055407  KETOCONAZOLE                                       R        KETOCONAZOLE TAB 200                                                      0
+54569452600  LUPRON DEPOT (SRN,PREFIL,DUAL CHAMBER) 11.25 MG    R        LEUPROLIDE ACETATE (FOR DEPOT SUSPENSION), 7.5 MG                         0
+54569454700  LUPRON DEPOT (SRN, PREFILL DUAL CHAMB) 3.75 MG     R        INJECTION, LEUPROLIDE ACETATE (FOR DEPOT SUSPENSION), PER 3.75 MG         0
+54569526200  LUPRON DEPOT-PED (SRN,PREFIL DUAL CHAMBER) 15 MG   R        LEUPROLIDE ACETATE (FOR DEPOT SUSPENSION), 7.5 MG                         0
+54569585700  TAMOXIFEN CITRATE 20 MG                            R        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+54868282500  LUPRON DEPOT 3.75 MG                               R        INJECTION, LEUPROLIDE ACETATE (FOR DEPOT SUSPENSION), PER 3.75 MG         0
+55370055807  KETOCONAZOLE                                       R        KETOCONAZOLE TAB 200                                                      0
+55566830101  DEGARELIX ACETATE                                  R        DEGARELIX INJ 80MG U                                                      0
+55566840101  DEGARELIX ACETATE                                  R        DEGARELIX INJ 120MG                                                       0
+55592050001  VANTAS 50 MG                                       R        HISTRELIN IMPLANT, 50 MG                                                  0
+55953082740  KETOCONAZOLE                                       R        KETOCONAZOLE TAB 200                                                      0
+60505009200  KETOCONAZOLE                                       R        KETOCONAZOLE TAB 200                                                      0
+64523010001  OAKLIDE 5 MG/ML                                    R        LEUPROLIDE ACETATE, PER 1 MG                                              0
+67979000201  SUPPRELIN LA 50 MG                                 R        HISTRELIN IMPLANT, 50 MG                                                  0
+68094051859  MEGESTROL ACETATE (1X20ML,LEMON-LIME) 40 MG/ML     R        PRESCRIPTION DRUG, ORAL, CHEMOTHERAPEUTIC, NOS                            0
+88888004900  KETOCONAZOLE                                       R        KETOCONAZOLE 20MG/ML                                                      0
+99999085008  KETOCONAZOLE                                       R        KETOCONAZOLE 20MG/ML                                                      0
+99999085079  KETOCONAZOLE                                       R        KETOCONAZOLE 20MG/ML                                                      0
+Procs in Addies dset that arent in ours.                                                                           07:14 Wednesday, April 27, 2011  10
+
+PX     CODE_TYPE  CHEMO_TYPE  DESCRIPTION
+--------------------------------------------------------------------------------------------------------------------------------------------
+C1774  HCPC                   INJECTION, DARBEPOETIN ALFA (FOR NON ESRD USE), PER 1 MCG                                                     
+C9415  HCPC       A           DOXORUBICIN HCL, BRAND NAME, 10 MG                                                                            
+C9424  HCPC       A           DAUNORUBICIN, BRAND NAME, 10 MG                                                                               
+C9429  HCPC       A           IDARUBICIN HYDROCHLORIDE, BRAND NAME, 5 MG                                                                    
+00.15  ICD9CM     I           Immunotherapy, antineoplastic                                                                                 
+S0177  HCPC       I           LEVAMISOLE HYDROCHLORIDE, ORAL, 50MG                                                                          
+17.70  ICD9CM     O           intravenous infusion of clofarabine (17.70)                                                                   
+96446  CPT4       O           Chemotherapy administration into peritoneal cavity via indwelling port or catheter                            
+C9110  HCPC       O           INJECTION, ALEMTUZUMAB, PER 10 MG/ ML                                                                         
+C9207  HCPC       O           INJECTION, BORTEZOMIB, PER 3.5 MG                                                                             
+C9213  HCPC       O           INJECTION, PEMETREXED, PER 10 MG                                                                              
+C9216  HCPC       O           INJECTION, ABARELIX FOR INJECTABLE SUSPENSION, PER 10 MG                                                      
+C9414  HCPC       O           ETOPOSIDE, ORAL, BRAND NAME, 50 MG                                                                            
+C9417  HCPC       O           BLEOMYCIN SULFATE, BRAND NAME, 15 UNITS                                                                       
+C9418  HCPC       O           CISPLATIN, POWDER OR S0LUTION, BRAND NAME, PER 10 MG                                                          
+C9419  HCPC       O           INJECTION, CLADRIBINE, BRAND NAME, PER 1 MG                                                                   
+C9420  HCPC       O           CYCLOPHOSPHAMIDE, BRAND NAME, 100 MG                                                                          
+C9421  HCPC       O           CYCLOPHOSPHAMIDE, LYOPHILIZED, BRAND NAME, 100 MG                                                             
+C9422  HCPC       O           CYTARABINE, BRAND NAME, 100 MG                                                                                
+C9423  HCPC       O           DACARBAZINE, BRAND NAME, 100 MG                                                                               
+C9425  HCPC       O           ETOPOSIDE, BRAND NAME, 10 MG                                                                                  
+C9426  HCPC       O           FLOXURIDINE, BRAND NAME, 500 MG                                                                               
+C9427  HCPC       O           IFOSFAMIDE, BRAND NAME, 1 GM                                                                                  
+C9431  HCPC       O           PACLITAXEL, BRAND NAME, 30 MG                                                                                 
+C9432  HCPC       O           MITOMYCIN, BRAND NAME, 5 MG                                                                                   
+C9433  HCPC       O           THIOTEPA, BRAND NAME, 15 MG                                                                                   
+C9436  HCPC       O           AZATHIOPRINE, PARENTERAL, BRAND NAME, PER 100 MG                                                              
+C9437  HCPC       O           CARMUSTINE, BRAND NAME, 100 MG                                                                                
+C9438  HCPC       O           CYCLOSPORINE, ORAL, BRAND NAME, 100 MG                                                                        
+C9440  HCPC       O           VINORELBINE TARTRATE, BRAND NAME, PER 10 MG                                                                   
+G0357  HCPC       O           CHEMOTHERAPY IV PUSH, SINGLE/INITIAL DRUG                                                                     
+G0358  HCPC       O           CHEMOTHERAPY ADMINSTRATION OF EACH ADD. PUSHED CHEMO DRUG                                                     
+G0362  HCPC       O           CHEMOTHERAPY ADMINSTRATION OF EACH INFUSED CHEMO DRUG, UP TO 1 HR                                             
+J9171  HCPC       O           Injection, docetaxel, 1 mg                                                                                    
+J9302  HCPC       O           Injection, ofatumumab, 10 mg                                                                                  
+S0087  HCPC       O           Alemtuzumab injection, 30 mg                                                                                  
+S0088  HCPC       O           Imatinib injection, 100 mg                                                                                    
+S0115  HCPC       O           BORTEZOMIB, 3.5 MG                                                                                            
+S0172  HCPC       O           CHLORAMBUCIL, ORAL, 2MG                                                                                       
+Procs in Addies dset that arent in ours.                                                                           07:14 Wednesday, April 27, 2011  11
+
+PX     CODE_TYPE  CHEMO_TYPE  DESCRIPTION
+--------------------------------------------------------------------------------------------------------------------------------------------
+S0176  HCPC       O           HYDROXYUREA, ORAL, 500MG                                                                                      
+S0178  HCPC       O           LOMUSTINE, ORAL, 10MG                                                                                         
+S0182  HCPC       O           PROCARBAZINE HYDROCHLORIDE, ORAL, 50MG                                                                        
+G0356  HCPC       R           HORMONAL ANTI-NEOPLASTIC                                                                                      
+96567  CPT4       U           Photodynamic therapy by external application of light to destroy premalignant and/or malignant lesions of the 
+96570  CPT4       U           Photodynamic therapy by endoscopic application of light to ablate abnormal tissue via activation of photosensi
+96571  CPT4       U           Photodynamic therapy by endoscopic application of light to ablate abnormal tissue via activation of photosensi
+96910  CPT4       U           Photochemotherapy; tar and ultraviolet B (Goeckerman treatment) or petrolatum and ultraviolet B               
+96912  CPT4       U           Photochemotherapy; psoralens and ultraviolet A (PUVA)                                                         
+99.29  ICD9       U           Injection or infusion of other therapeutic or prophylactic substance                                          
+S1016  HCPC       U           vinyl chloride) intravenous administration set, for use with drugs that are not stable in PVC e.g., Paclitaxel
