@@ -37,6 +37,7 @@ libname dat 'C:\Documents and Settings\pardre1\My Documents\vdw\chemo_codes\data
     ;
     title " " ;
     title "Procs we have that arent in Addies dset" ;
+    create table dat.px_to_delete_maybe as
     select p.*
     from    mdb.procedures as p LEFT JOIN
             dat.px_codes as a
@@ -45,6 +46,8 @@ libname dat 'C:\Documents and Settings\pardre1\My Documents\vdw\chemo_codes\data
     where   a.px IS NULL and p.code_type ne 'LHGR'
     order by chemo_type, px
     ;
+
+    select * from dat.px_to_delete_maybe ;
 
     title "NDCs in Addies dset that arent in ours." ;
     select r.*
@@ -100,6 +103,8 @@ libname dat 'C:\Documents and Settings\pardre1\My Documents\vdw\chemo_codes\data
     ;
   quit ;
 %mend update ;
+
+%update ;
 
 options orientation = landscape ;
 
