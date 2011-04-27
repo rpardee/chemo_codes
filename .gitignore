@@ -1,0 +1,3 @@
+data/*.ldb
+programs/*.log
+programs/*.lst

@@ -75,6 +75,33 @@ libname dat 'C:\Documents and Settings\pardre1\My Documents\vdw\chemo_codes\data
   %** Adds anything not already found in Addies dset to our tables. ;
   %** Does not do any deletes--do those manually. ;
   proc sql ;
+    %** Drugs. ;
+    select max(list_version) + 1 into :new_drug_list_version
+    from mdb.drugs
+    ;
+
+    create table new_drugs as
+    select r.*
+    from mdb.drugs as d RIGHT JOIN
+          dat.rx_codes as r
+    on    d.ndc = r.ndc
+    where d.ndc IS NULL
+    order by chemo_type, ndc
+    ;
+
+    title "About to insert these drugs." ;
+    select * from new_drugs ;
+    title " " ;
+
+    insert into mdb.drugs (ndc, description, chemo_type, list_version)
+    select NDC
+        , GENERIC_NAME
+        , CHEMO_TYPE
+        , &new_drug_list_version
+    from new_drugs
+    ;
+
+    %** Procedures. ;
     create table new_px as
     select  a.*
     from    mdb.procedures as p RIGHT JOIN
@@ -84,6 +111,10 @@ libname dat 'C:\Documents and Settings\pardre1\My Documents\vdw\chemo_codes\data
     where   p.px IS NULL
     order by chemo_type, px
     ;
+
+    title "About to insert these procs." ;
+    select * from new_px ;
+    title " " ;
 
     select max(list_version) + 1 into :new_list_version
     from mdb.procedures
