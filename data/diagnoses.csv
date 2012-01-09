@@ -1,0 +1,11 @@
+dx,code_type,description,chemo_type
+V07.31,ICD9,"Other prophylactic chemotherapy, prophylactic fluid administration",U
+V07.39,ICD9,"Other prophylactic chemotherapy, other prophylactic chemotherapy",U
+V07.4,ICD9,"Other prophylactic chemotherapy, hormone replacement therapy",U
+V58.1,ICD9,ENCOUNTER ANTINEOPLASTIC CHEMO&IMMUNOTHERAPY,U
+V58.11,ICD9,ENCOUNTER FOR ANTINEOPLASTIC CHEMOTHERAPY,U
+V58.12,ICD9,ENCOUNTER FOR ANTINEOPLASTIC IMMUNOTHERAPY,U
+V58.2,ICD9,"Encounter for Chemotherapy and immunotherapy for neoplastic conditions, blood tr",U
+V66.2,ICD9,CONVALESCENCE FOLLOWING CHEMOTHERAPY,U
+V67.2,ICD9,CHEMOTHERAPY FOLLOW-UP EXAMINATION,U
+V87.41,ICD9,"Personal History of drug therapy, personal history of antineoplastic chemotherap",U
