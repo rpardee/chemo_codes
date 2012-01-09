@@ -12,9 +12,11 @@ We are making this list available in the hopes that it will be useful to researc
 Data Formats
 ------------
 The actual code lists are contained in the /data subdirectory, in 3 different formats:
+
 * csv files--plain text files easily read into Excel and many other programs.
 * sas7bdat files--binary SAS datasets for use by SAS programs.
 * chemo_codes.mdb--a Microsoft Access database file containing tables holding the various lists.
+
 _These lists are all equivalent--please feel free to use whichever format is easiest for you._
 
 Variables of Note
