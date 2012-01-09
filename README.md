@@ -1,13 +1,21 @@
 Chemotherapy Codes
 ==================
 
-The data files contained in this directory contain three lists of medical codes standard in the U.S. that can be used to extract information on chemotherapy from clinical and/or billing data.  The lists were originally compiled by Tom Delate for the Pharmacovigilance and RxBurden studies, from a variety of sources, including:
+The data files contained in this repository contain three lists of medical codes (and associated descriptions) standard in the U.S. that can be used to extract information on chemotherapy events from clinical and/or billing data.  The lists were originally compiled by a panel of experts from several Cancer Research Network Investigators for the Pharmacovigilance and RxBurden studies, from a variety of sources, including:
 
 1. Prior literature
 2. SEER RX
 3. The PharmD's practicing at KP Colorado
-4. Consultation w/Heather Dakki and Karen Wells of Henry Ford to include their homegrown codes that were not mappable to standard procedure codes.
 
+We are making this list available in the hopes that it will be useful to researchers outside of the Cancer Research Network in their work.
+
+Data Formats
+------------
+The actual code lists are contained in the /data subdirectory, in 3 different formats:
+* csv files--plain text files easily read into Excel and many other programs.
+* sas7bdat files--binary SAS datasets for use by SAS programs.
+* chemo_codes.mdb--a Microsoft Access database file containing tables holding the various lists.
+_These lists are all equivalent--please feel free to use whichever format is easiest for you._
 
 Variables of Note
 -----------------
@@ -28,6 +36,12 @@ Our intention, expectation & hope is that the list is complete and accurate for 
 
 If You Use The List
 -------------------
-Please add a comment to this page if you use this list & let us (and other prospective users) know about your experience.
+I would love to get a message to let me know that you used the list, what you used it for, and whether it was or was not helpful to you.  Please use github's messaging facility to do that.
 
-Please send any missing or new codes you discover to Roy Pardee, so we can include them in this file, so that future users can benefit from your work (just as you're benefiting from Tom's).
+If You Would Like To Contribute Additional Codes
+------------------------------------------------
+Do please "pay it forward" and send additional codes that should be on these lists.  You can do so either by formal pull request, or just via e-mail.
+
+Thanks!
+
+The Cancer Research Network
