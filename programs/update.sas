@@ -148,8 +148,10 @@ libname dat 'C:\Documents and Settings\pardre1\My Documents\vdw\chemo_codes\data
 %mend output ;
 
 %**update ;
+
 %output ;
 
+/*
 options orientation = landscape ;
 
 ods graphics / height = 6in width = 10in ;
@@ -164,3 +166,4 @@ ods html path = "&out_folder" (URL=NONE)
   %compare ;
 ods _all_ close ;
 
+ */

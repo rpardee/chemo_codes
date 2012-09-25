@@ -14,38 +14,38 @@ px,code_type,description,chemo_type,comments
 95991,CPT4,"Refilling and maintenance of implantable pump or reservoir for drug delivery, sp",U,
 96365,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U,
 96366,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U,
-96367,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U
-96368,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U
-96379,CPT4,"Unlisted therapeutic, prophylactic, or diagnostic intravenous or intra-arterial",U
-96400,CPT4,"CHEMOTHERAPY ADMINISTRATION, SUBQ/IM, W/WO LOCAL ANESTHESIA",U
-96401,CPT4,"Chemotherapy administration, subcutaneous or intramuscular non-hormonal anti-ne",U
-96402,CPT4,"Chemotherapy administration, subcutaneous or intramuscular hormonal anti-neopla",U
-96405,CPT4,"Chemotherapy administration: intralesional, up to and including 7 lesions",U
-96406,CPT4,"Chemotherapy administration: intralesional, more than 7 lesions",U
-96408,CPT4,"CHEMOTHERAPY ADMINISTRATION, IV: PUSH TECHNIQUE",U
-96409,CPT4,"Chemotherapy administration: intravenous, push technique, single or initial subs",U
-96410,CPT4,"CHEMOTHERAPY ADMINISTRATION, IV: INFUSION, UP TO 1 HR",U
-96411,CPT4,"Chemotherapy administration: intravenous, push technique, each additional substa",U
-96412,CPT4,"CHEMOTHERAPY, IV: INFUSION, 1-8 HR, ADDL HR",U
-96413,CPT4,"Chemotherapy administration, intravenous infusion technique: up to 1 hour, singl",U
-96414,CPT4,"CHEMOTHERAPY, IV: INFUSION, > 8 HR W/PORTABLE/IMPLANTABLE PUMP",U
-96415,CPT4,"Chemotherapy administration, intravenous infusion technique: each additional hou",U
-96416,CPT4,"Chemotherapy administration, intravenous infusion technique: initiation of prolo",U
-96417,CPT4,"Chemotherapy administration, intravenous infusion technique: each additional seq",U
-96420,CPT4,"Chemotherapy administration, intra-arterial: push technique",U
-96422,CPT4,"Chemotherapy administration, intra-arterial: infusion technique, up to one hour",U
-96423,CPT4,"Chemotherapy administration, intra-arterial: infusion technique, each additional",U
-96425,CPT4,"Chemotherapy administration, intra-arterial: infusion technique, initiation of p",U
-96440,CPT4,"Chemotherapy administration into pleural cavity, requiring and including thorace",U
-96445,CPT4,"Chemotherapy administration into peritoneal cavity, requiring and including peri",U
-96446,CPT4,Chemotherapy administration into peritoneal cavity via indwelling port or cathet,O
-96450,CPT4,"Chemotherapy administration, into CNS (eg, intrathecal), requiring and including",U
-96520,CPT4,"REFILLING & MAINTENANCE, PORTABLE PUMP",U
-96521,CPT4,Refilling and maintenance of portable pump,U
-96522,CPT4,"Refilling and maintenance of implantable pump or reservoir for drug delivery, sy",U
-96523,CPT4,Irrigation of implanted venous access device for drug delivery systems,U
-96530,CPT4,"REFILLING & MAINTENANCE, IMPLANTABLE PUMP/RESERVOIR DRUG DELIVERY, SYSTEMIC",U
-96542,CPT4,"Chemotherapy injection, subarachnoid or intraventricular via subcutaneous reserv",U
+96367,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U,
+96368,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U,
+96379,CPT4,"Unlisted therapeutic, prophylactic, or diagnostic intravenous or intra-arterial",U,
+96400,CPT4,"CHEMOTHERAPY ADMINISTRATION, SUBQ/IM, W/WO LOCAL ANESTHESIA",U,
+96401,CPT4,"Chemotherapy administration, subcutaneous or intramuscular non-hormonal anti-ne",U,
+96402,CPT4,"Chemotherapy administration, subcutaneous or intramuscular hormonal anti-neopla",U,
+96405,CPT4,"Chemotherapy administration: intralesional, up to and including 7 lesions",U,
+96406,CPT4,"Chemotherapy administration: intralesional, more than 7 lesions",U,
+96408,CPT4,"CHEMOTHERAPY ADMINISTRATION, IV: PUSH TECHNIQUE",U,
+96409,CPT4,"Chemotherapy administration: intravenous, push technique, single or initial subs",U,
+96410,CPT4,"CHEMOTHERAPY ADMINISTRATION, IV: INFUSION, UP TO 1 HR",U,
+96411,CPT4,"Chemotherapy administration: intravenous, push technique, each additional substa",U,
+96412,CPT4,"CHEMOTHERAPY, IV: INFUSION, 1-8 HR, ADDL HR",U,
+96413,CPT4,"Chemotherapy administration, intravenous infusion technique: up to 1 hour, singl",U,
+96414,CPT4,"CHEMOTHERAPY, IV: INFUSION, > 8 HR W/PORTABLE/IMPLANTABLE PUMP",U,
+96415,CPT4,"Chemotherapy administration, intravenous infusion technique: each additional hou",U,
+96416,CPT4,"Chemotherapy administration, intravenous infusion technique: initiation of prolo",U,
+96417,CPT4,"Chemotherapy administration, intravenous infusion technique: each additional seq",U,
+96420,CPT4,"Chemotherapy administration, intra-arterial: push technique",U,
+96422,CPT4,"Chemotherapy administration, intra-arterial: infusion technique, up to one hour",U,
+96423,CPT4,"Chemotherapy administration, intra-arterial: infusion technique, each additional",U,
+96425,CPT4,"Chemotherapy administration, intra-arterial: infusion technique, initiation of p",U,
+96440,CPT4,"Chemotherapy administration into pleural cavity, requiring and including thorace",U,
+96445,CPT4,"Chemotherapy administration into peritoneal cavity, requiring and including peri",U,
+96446,CPT4,Chemotherapy administration into peritoneal cavity via indwelling port or cathet,O,
+96450,CPT4,"Chemotherapy administration, into CNS (eg, intrathecal), requiring and including",U,
+96520,CPT4,"REFILLING & MAINTENANCE, PORTABLE PUMP",U,
+96521,CPT4,Refilling and maintenance of portable pump,U,
+96522,CPT4,"Refilling and maintenance of implantable pump or reservoir for drug delivery, sy",U,
+96523,CPT4,Irrigation of implanted venous access device for drug delivery systems,U,
+96530,CPT4,"REFILLING & MAINTENANCE, IMPLANTABLE PUMP/RESERVOIR DRUG DELIVERY, SYSTEMIC",U,
+96542,CPT4,"Chemotherapy injection, subarachnoid or intraventricular via subcutaneous reserv",U,
 96545,CPT4,"PROVISION, CHEMOTHERAPY AGENT",U,
 96549,CPT4,Unlisted chemotherapy procedure,U,
 96567,CPT4,Photodynamic therapy by external application of light to destroy premalignant an,U,
@@ -62,247 +62,247 @@ C1084,HCPC,"Denileukin diftitox, 300 mcg",I,
 C1086,HCPC,"Temozolomide, 5 mg",O,
 C1166,HCPC,"INJECTION, CYTARABINE LIPOSOME, PER 10 MG",O,
 C1167,HCPC,"INJECTION, EPIRUBICIN HYDROCHLORIDE, 2 MG",A,
-C1178,HCPC,INJECTION BUSULFAN PER 6 MG,O
-C1774,HCPC,"INJECTION, DARBEPOETIN ALFA (FOR NON ESRD USE), PER 1 MCG",
-C8953,HCPC,"CHEMOTHERAPY ADMIN IV, PU",U
-C8954,HCPC,"CHEMO ADMIN IV, INFUS UP",U
-C8955,HCPC,"CHEMO ADMN IV, INFUS EA A",U
-C9004,HCPC,"Gemtuzumab ozogamicin inj,5m",O
-C9012,HCPC,"Injection, arsenic trioxide",O
-C9110,HCPC,"INJECTION, ALEMTUZUMAB, PER 10 MG/ ML",O
-C9205,HCPC,"INJECTION, OXALIPLATIN, PER 5 MG",O
-C9207,HCPC,"INJECTION, BORTEZOMIB, PER 3.5 MG",O
-C9213,HCPC,"INJECTION, PEMETREXED, PER 10 MG",O
-C9214,HCPC,"INJECTION, BEVACIZUMAB, PER 10 MG",O
-C9215,HCPC,"INJECTION, CETUXIMAB, PER 10 MG",O
-C9216,HCPC,"INJECTION, ABARELIX FOR INJECTABLE SUSPENSION, PER 10 MG",O
-C9235,HCPC,"Injection, panitumumab, 10 mg",O
-C9257,HCPC,"Injection, bevacizumab, 0.25 mg",O
-C9262,HCPC,"Fludarabine phosphate, oral, 1 mg",O
-C9414,HCPC,"ETOPOSIDE, ORAL, BRAND NAME, 50 MG",O
-C9415,HCPC,"DOXORUBICIN HCL, BRAND NAME, 10 MG",A
-C9416,HCPC,"Bcg (intravesical) per instillation, brand name",I
-C9417,HCPC,"BLEOMYCIN SULFATE, BRAND NAME, 15 UNITS",O
-C9418,HCPC,"CISPLATIN, POWDER OR S0LUTION, BRAND NAME, PER 10 MG",O
-C9419,HCPC,"INJECTION, CLADRIBINE, BRAND NAME, PER 1 MG",O
-C9420,HCPC,"CYCLOPHOSPHAMIDE, BRAND NAME, 100 MG",O
-C9421,HCPC,"CYCLOPHOSPHAMIDE, LYOPHILIZED, BRAND NAME, 100 MG",O
-C9422,HCPC,"CYTARABINE, BRAND NAME, 100 MG",O
-C9423,HCPC,"DACARBAZINE, BRAND NAME, 100 MG",O
-C9424,HCPC,"DAUNORUBICIN, BRAND NAME, 10 MG",A
-C9425,HCPC,"ETOPOSIDE, BRAND NAME, 10 MG",O
-C9426,HCPC,"FLOXURIDINE, BRAND NAME, 500 MG",O
-C9427,HCPC,"IFOSFAMIDE, BRAND NAME, 1 GM",O
-C9429,HCPC,"IDARUBICIN HYDROCHLORIDE, BRAND NAME, 5 MG",A
-C9431,HCPC,"PACLITAXEL, BRAND NAME, 30 MG",O
-C9432,HCPC,"MITOMYCIN, BRAND NAME, 5 MG",O
-C9433,HCPC,"THIOTEPA, BRAND NAME, 15 MG",O
-C9436,HCPC,"AZATHIOPRINE, PARENTERAL, BRAND NAME, PER 100 MG",O
-C9437,HCPC,"CARMUSTINE, BRAND NAME, 100 MG",O
-C9438,HCPC,"CYCLOSPORINE, ORAL, BRAND NAME, 100 MG",O
-C9440,HCPC,"VINORELBINE TARTRATE, BRAND NAME, PER 10 MG",O
-G0355,HCPC,CHEMO SQ/IM NONHORMONL AN,U
-G0356,HCPC,HORMONAL ANTI-NEOPLASTIC,R
-G0357,HCPC,"CHEMOTHERAPY IV PUSH, SINGLE/INITIAL DRUG",O
-G0358,HCPC,CHEMOTHERAPY ADMINSTRATION OF EACH ADD. PUSHED CHEMO DRUG,O
-G0359,HCPC,"CHEMO IV INFUS,UP TO 1 HR",U
-G0360,HCPC,"CHEMO ADMIN IV INFUS, EA",U
-G0361,HCPC,INIT PROLNG CHEMO INFUS R,U
-G0362,HCPC,"CHEMOTHERAPY ADMINSTRATION OF EACH INFUSED CHEMO DRUG, UP TO 1 HR",O
-G8371,HCPC,CHEMO DOC NOT RECV STG II,U
-G8372,HCPC,CHEMO DOC RECV STAGE III,U
-G8373,HCPC,CHEMO PLAN DOC PRIOR CHEM,U
-G8374,HCPC,CHEMO PLAN NOT DOC PRIOR,U
-G8381,HCPC,"For patients with er or pr positive, stage ic-iii breast cancer, clinician docum",H
-G9021,HCPC,CHEMO ASSESS NV LEVL 1: N,U
-G9022,HCPC,CHEMO ASSESS NV LEVL 2: L,U
-G9023,HCPC,CHEMO ASSESS NV LEVL 3: Q,U
-G9024,HCPC,CHEMO ASSESS NV LEVL 4: V,U
-G9025,HCPC,CHEMO ASSESS PAIN LVL 1:,U
-G9026,HCPC,CHEMO ASSESS PAIN LVL 2:,U
-G9027,HCPC,CHEMO ASSESS PAIN LVL 3:,U
-G9028,HCPC,CHEMO ASSESS PAIN LVL 4:,U
-G9029,HCPC,CHEMO ASSESS FATIGUE 1: N,U
-G9030,HCPC,CHEMO ASSESS FATIGUE LVL,U
-G9031,HCPC,CHEMO ASSESS FATIGUE 3: Q,U
-G9032,HCPC,CHEMO ASSESS FATIGUE LVL,U
-J0128,HCPC,"INJECTION, ABARELIX, 10 MG",R
-J0207,HCPC,"INJECTION, AMIFOSTINE, 500 MG",O
-J0594,HCPC,"Injection, busulfan, 1 mg",O
-J0640,HCPC,"INJECTION, LEUCOVORIN CALCIUM, PER 50 MG",O
-J0641,HCPC,"INJECTION, LEVOLEUCOVORIN CALCIUM, 0.5 MG",O
-J0894,HCPC,"INJECTION, DECITABINE, 1 MG",O
-J1050,HCPC,"INJECTION, MEDROXYPROGESTERONE ACETATE, 100 MG",R
-J1051,HCPC,"INJECTION, MEDROXYPROGESTERONE ACETATE, 50 MG",R
-J1190,HCPC,"INJECTION, DEXRAZOXANE HYDROCHLORIDE, PER 250 MG",O
-J1453,HCPC,"INJECTION, FOSAPREPITANT, 1 MG",O
-J1675,HCPC,"Injection, histrelin acetate, 10 mcg",O
-J1825,HCPC,"Injection, interferon beta-1a, 33 mcg",I
-J1830,HCPC,"Injection interferon beta-1b, 0.25 mg (code may be used for Medicare when drug a",O
-J1950,HCPC,INJECTION           LEUPROLIDE ACETATE  (FOR DEPOT) PER     3.75 MG,O
-J3315,HCPC,"INJECTION, TRIPTORELIN PAMOATE, 3.75 MG",R
-J3490,HCPC,UNCLASSIFIED DRUGS,O
-J3590,HCPC,UNCLASSIFIED BIOLOGICS,R
-J7150,HCPC,Prescription Oral Chemo Drug,O
-J8510,HCPC,"Busulfan: oral, 2 mg",O
-J8520,HCPC,"Capecitabine, oral, 150 mg",O
-J8521,HCPC,"Capecitabine, oral, 500 mg",O
-J8530,HCPC,"Cyclophosphamide: oral, 25 mg",O
-J8540,HCPC,Dexamethasone oral 0.25mg,O
-J8560,HCPC,"Etoposide; oral, 50 mg",O
-J8565,HCPC,"Gefitinib, oral, 250 mg",O
-J8600,HCPC,"Melphalan: oral, 2 mg",O
-J8610,HCPC,"Methotrexate: oral, 2.5 mg",O
-J8700,HCPC,"Temozolomide, oral, 5 mg",O
-J8705,HCPC,"TOPOTECAN, ORAL, 0.25 MG",O
-J8999,HCPC,"Prescription drug, oral, chemotherapeutic, NOS",U
-J9000,HCPC,"Doxorubicin HCl, 10 mg",A
-J9001,HCPC,"Doxorubicin HCl, all lipid formulations, 10 mg",A
-J9010,HCPC,"Alemtuzumab, 10 mg",O
-J9015,HCPC,"Aldesleukin, per single use vial",O
-J9017,HCPC,"Arsenic trioxide, 1 mg",O
-J9020,HCPC,"Asparaginase, 10,000 units",O
-J9025,HCPC,"Injection, azacitidine, 1 mg",O
-J9027,HCPC,"Injection, clofarabine, 1 mg",O
-J9031,HCPC,"BCG live (intravesical), per instillation",O
-J9033,HCPC,"INJECTION, BENDAMUSTINE HCL, 1 MG",O
-J9035,HCPC,"Injection, bevacizumab, 10 mg",O
-J9040,HCPC,"Bleomycin sulfate, 15 units",O
-J9041,HCPC,"Injection, bortezomib, 0.1 mg",O
-J9045,HCPC,"Carboplatin, 50 mg",O
-J9050,HCPC,"Carmustine, 100 mg",O
-J9055,HCPC,"Injection, cetuximab, 10 mg",O
-J9060,HCPC,"Cisplatin, powder or solution, per 10 mg",O
-J9062,HCPC,"Cisplatin, 50 mg",O
-J9065,HCPC,"Injection, cladribine, per 1 mg",O
-J9070,HCPC,"Cyclophosphamide, 100 mg",O
-J9080,HCPC,"Cyclophosphamide, 200 mg",O
-J9090,HCPC,"Cyclophosphamide, 500 mg",O
-J9091,HCPC,"Cyclophosphamide, 1 g",O
-J9092,HCPC,"Cyclophosphamide, 2 g",O
-J9093,HCPC,"Cyclophosphamide, lyophilized, 100 mg",O
-J9094,HCPC,"Cyclophosphamide, lyophilized, 200 mg",O
-J9095,HCPC,"Cyclophosphamide, lyophilized, 500 mg",O
-J9096,HCPC,"Cyclophosphamide, lyophilized, 1 g",O
-J9097,HCPC,"Cyclophosphamide, lyophilized, 2 g",O
-J9098,HCPC,"Cytarabine liposome, 10 mg",O
-J9100,HCPC,"Cytarabine, 100 mg",O
-0.1,ICD9,Implantation of chemotherapy agent,U
-0.15,ICD9,"Immunotherapy, antineoplastic",I
-0169T,CPT4,Stereotactic placement of infusion catheter(s) in the brain for delivery of ther,U
-0519F,CPT4,"Planned chemotherapy regimen, including at a minimum: drug(s) prescribed, dose,",O
-17.7,ICD9,intravenous infusion of clofarabine (17.70),O
-36260,CPT4,Insertion of implantable intra-arterial infusion pump,U
-36640,CPT4,"Arterial catheterization for prolonged infusion therapy (chemotherapy), cutdown",U
-36823,CPT4,Insertion of arterial and venous cannula(s) for isolated extracorporeal circulat,U
-4180F,CPT4,"Adjuvant chemotherapy referred, prescribed, or previously received for Stage III",O
-50391,CPT4,Instillation(s) of therapeutic agent into renal pelvis and/or ureter through est,U
-51720,CPT4,Bladder instillation of anticarcinogenic agent (including retention time),U
-61215,CPT4,"Insertion of subcutaneous reservoir, pump or continuous infusion system for conn",U
-61517,CPT4,Implantation of brain intracavitary chemotherapy agent (List separately in addit,U
-62360,CPT4,Implantation or replacement of device for intrathecal or epidural drug infusion;,U
-62361,CPT4,Implantation or replacement of device for intrathecal or epidural drug infusion;,U
-62362,CPT4,Implantation or replacement of device for intrathecal or epidural drug infusion;,U
-62365,CPT4,"Removal of subcutaneous reservoir or pump, previously implanted for intrathecal",U
-90765,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U
-90766,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U
-90767,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U
-90768,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U
-90772,CPT4,"Therapeutic, prophylactic or diagnostic injection (specify substance or drug): s",U
-J9110,HCPC,"Cytarabine, 500 mg",O
-J9120,HCPC,"Dactinomycin, 0.5 mg",O
-J9130,HCPC,"Dacarbazine, 100 mg",O
-J9140,HCPC,"Dacarbazine, 200 mg",O
-J9150,HCPC,"Daunorubicin, 10 mg",A
-J9151,HCPC,"Daunorubicin citrate, liposomal formulation, 10 mg",A
-J9155,HCPC,INJECTION DEGARELIX 1 MG,R
-J9160,HCPC,"Denileukin diftitox, 300 mcg",O
-J9165,HCPC,"Diethylstilbestrol diphosphate, 250 mg",O
-J9170,HCPC,"Docetaxel, 20 mg",O
-J9171,HCPC,"Injection, docetaxel, 1 mg",O
-J9178,HCPC,"Injection, epirubicin HCl, 2 mg",A
-J9180,HCPC,"EPIRUBICIN HYDROCHLORIDE, 50 MG",A
-J9181,HCPC,"Etoposide, 10 mg",O
-J9182,HCPC,"Etoposide, 100 mg",O
-J9185,HCPC,"Fludarabine phosphate, 50 mg",O
-J9190,HCPC,"Fluorouracil, 500 mg",O
-J9200,HCPC,"Floxuridine, 500 mg",O
-J9201,HCPC,"Gemcitabine HCl, 200 mg",O
-J9202,HCPC,"Goserelin acetate implant, per 3.6 mg",O
-J9206,HCPC,"Irinotecan, 20 mg",O
-J9207,HCPC,"INJECTION, IXABEPILONE, 1 MG",O
-J9208,HCPC,"Ifosfamide, per 1 g",O
-J9209,HCPC,"Mesna, 200 mg",O
-J9211,HCPC,"Idarubicin HCl, 5 mg",A
-J9212,HCPC,"Injection, interferon alfacon-1, recombinant, 1 mcg",O
-J9213,HCPC,"Interferon alfa-2a, recombinant, 3 million units",O
-J9214,HCPC,"Interferon alfa-2B, recombinant, 1 million units",O
-J9215,HCPC,"Interferon alfa-N3, (human leukocyte derived), 250,000 IU",O
-J9216,HCPC,"Interferon gamma-1B, 3 million units",O
-J9217,HCPC,"Leuprolide acetate (for depot suspension), 7.5 mg",O
-J9218,HCPC,"Leuprolide acetate, per 1 mg",O
-J9219,HCPC,"Leuprolide acetate implant, 65 mg",O
-J9225,HCPC,"Histrelin implant (Vantas), 50 mg",O
-J9226,HCPC,"Histrelin implant (Supprelin LA), 50 mg",O
-J9230,HCPC,"Mechlorethamine HCl, (nitrogen mustard), 10 mg",O
-J9245,HCPC,"Injection, melphalan HCl, 50 mg",O
-J9250,HCPC,"Methotrexate sodium, 5 mg",O
-J9260,HCPC,"Methotrexate sodium, 50 mg",O
-J9261,HCPC,"Injection, nelarabine, 50 mg",O
-J9263,HCPC,"Injection, oxaliplatin, 0.5 mg",O
-J9264,HCPC,"Injection, paclitaxel protein-bound particles, 1 mg",O
-J9265,HCPC,"Paclitaxel, 30 mg",O
-J9266,HCPC,"Pegaspargase, per single dose vial",O
-J9268,HCPC,"Pentostatin, per 10 mg",O
-J9270,HCPC,"Plicamycin, 2.5 mg",O
-J9280,HCPC,"Mitomycin, 5 mg",O
-J9290,HCPC,"Mitomycin, 20 mg",O
-J9291,HCPC,"Mitomycin, 40 mg",O
-J9293,HCPC,"Injection, mitoxantrone HCl, per 5 mg",O
-J9300,HCPC,"Gemtuzumab ozogamicin, 5 mg",O
-J9302,HCPC,"Injection, ofatumumab, 10 mg",O
-J9303,HCPC,"Injection, panitumumab, 10 mg",O
-J9305,HCPC,"Injection, pemetrexed, 10 mg",O
-J9310,HCPC,"Rituximab, 100 mg",O
-J9320,HCPC,"Streptozocin, 1 g",O
-J9330,HCPC,"INJECTION, TEMSIROLIMUS, 1 MG",O
-J9340,HCPC,"Thiotepa, 15 mg",O
-J9350,HCPC,"Topotecan, 4 mg",O
-J9355,HCPC,"Trastuzumab, 10 mg",H
-J9357,HCPC,"Valrubicin, intravesical, 200 mg",O
-J9360,HCPC,"Vinblastine sulfate, 1 mg",O
-J9370,HCPC,"Vincristine sulfate, 1 mg",O
-J9375,HCPC,"Vincristine sulfate, 2 mg",O
-J9380,HCPC,"Vincristine sulfate, 5 mg",O
-J9390,HCPC,"Vinorelbine tartrate, per 10 mg",O
-J9395,HCPC,"Injection, fulvestrant, 25 mg",O
-J9600,HCPC,"Porfimer sodium, 75 mg",O
-J9999,HCPC,"NOC, antineoplastic drug",U
-None,HCPC,"CAPECITABINE, 150 MG, ORAL",O
-Q0083,HCPC,"Chemotherapy administration by other than infusion technique only (e.g., subcuta",U
-Q0084,HCPC,"Chemotherapy administration by infusion technique only, per visit",U
-Q0085,HCPC,Chemotherapy administration by both infusion technique and other technique(s) (e,U
-Q2017,HCPC,"INJECTION, TENIPOSIDE, 50 MG",O
-Q2020,HCPC,"INJECTION, HISTRELIN ACETATE, 10 MCG",O
-Q2024,HCPC,"Injection, bevacizumab, 0.25 mg",O
-Q3025,HCPC,"Injection, interferon beta-1a, 11 mcg for intramuscular use",I
-Q3026,HCPC,"Injection, interferon beta-1a, 11 mcg for subcutaneous use",I
-S0087,HCPC,"Alemtuzumab injection, 30 mg",O
-S0088,HCPC,"Imatinib injection, 100 mg",O
-S0115,HCPC,"BORTEZOMIB, 3.5 MG",O
-S0116,HCPC,BEVACIZUMAB 100 MG,O
-S0145,HCPC,"Injection, pegylated interferon alfa-2a, 180 mcg per ml",I
-S0146,HCPC,"Injection, pegylated interferon alfa-2b, 10 mcg per 0.5 ml",I
-S0165,HCPC,"INJECTION, ABARELIX, 100 MG",O
-S0172,HCPC,"CHLORAMBUCIL, ORAL, 2MG",O
-S0176,HCPC,"HYDROXYUREA, ORAL, 500MG",O
-S0177,HCPC,"LEVAMISOLE HYDROCHLORIDE, ORAL, 50MG",I
-S0178,HCPC,"LOMUSTINE, ORAL, 10MG",O
-S0182,HCPC,"PROCARBAZINE HYDROCHLORIDE, ORAL, 50MG",O
-S1016,HCPC,"vinyl chloride) intravenous administration set, for use with drugs that are not",U
-S2107,HCPC,Adoptive immunotherapy i.e. development of specific anti-tumor reactivity (e.g.,I
-S5019,HCPC,Chemotherapy admin supplies,O
-S5020,HCPC,Chemotherapy admin supplies,O
-S9329,HCPC,"Home infusion therapy, chemotherapy infusion: administrative services, professio",U
-S9330,HCPC,"Home infusion therapy, continuous (24 hours or more) chemotherapy infusion: admi",U
-S9331,HCPC,"Home infusion therapy, intermittent (less than 24 hours) chemotherapy infusion:",U
+C1178,HCPC,INJECTION BUSULFAN PER 6 MG,O,
+C1774,HCPC,"INJECTION, DARBEPOETIN ALFA (FOR NON ESRD USE), PER 1 MCG",,
+C8953,HCPC,"CHEMOTHERAPY ADMIN IV, PU",U,
+C8954,HCPC,"CHEMO ADMIN IV, INFUS UP",U,
+C8955,HCPC,"CHEMO ADMN IV, INFUS EA A",U,
+C9004,HCPC,"Gemtuzumab ozogamicin inj,5m",O,
+C9012,HCPC,"Injection, arsenic trioxide",O,
+C9110,HCPC,"INJECTION, ALEMTUZUMAB, PER 10 MG/ ML",O,
+C9205,HCPC,"INJECTION, OXALIPLATIN, PER 5 MG",O,
+C9207,HCPC,"INJECTION, BORTEZOMIB, PER 3.5 MG",O,
+C9213,HCPC,"INJECTION, PEMETREXED, PER 10 MG",O,
+C9214,HCPC,"INJECTION, BEVACIZUMAB, PER 10 MG",O,
+C9215,HCPC,"INJECTION, CETUXIMAB, PER 10 MG",O,
+C9216,HCPC,"INJECTION, ABARELIX FOR INJECTABLE SUSPENSION, PER 10 MG",O,
+C9235,HCPC,"Injection, panitumumab, 10 mg",O,
+C9257,HCPC,"Injection, bevacizumab, 0.25 mg",O,
+C9262,HCPC,"Fludarabine phosphate, oral, 1 mg",O,
+C9414,HCPC,"ETOPOSIDE, ORAL, BRAND NAME, 50 MG",O,
+C9415,HCPC,"DOXORUBICIN HCL, BRAND NAME, 10 MG",A,
+C9416,HCPC,"Bcg (intravesical) per instillation, brand name",I,
+C9417,HCPC,"BLEOMYCIN SULFATE, BRAND NAME, 15 UNITS",O,
+C9418,HCPC,"CISPLATIN, POWDER OR S0LUTION, BRAND NAME, PER 10 MG",O,
+C9419,HCPC,"INJECTION, CLADRIBINE, BRAND NAME, PER 1 MG",O,
+C9420,HCPC,"CYCLOPHOSPHAMIDE, BRAND NAME, 100 MG",O,
+C9421,HCPC,"CYCLOPHOSPHAMIDE, LYOPHILIZED, BRAND NAME, 100 MG",O,
+C9422,HCPC,"CYTARABINE, BRAND NAME, 100 MG",O,
+C9423,HCPC,"DACARBAZINE, BRAND NAME, 100 MG",O,
+C9424,HCPC,"DAUNORUBICIN, BRAND NAME, 10 MG",A,
+C9425,HCPC,"ETOPOSIDE, BRAND NAME, 10 MG",O,
+C9426,HCPC,"FLOXURIDINE, BRAND NAME, 500 MG",O,
+C9427,HCPC,"IFOSFAMIDE, BRAND NAME, 1 GM",O,
+C9429,HCPC,"IDARUBICIN HYDROCHLORIDE, BRAND NAME, 5 MG",A,
+C9431,HCPC,"PACLITAXEL, BRAND NAME, 30 MG",O,
+C9432,HCPC,"MITOMYCIN, BRAND NAME, 5 MG",O,
+C9433,HCPC,"THIOTEPA, BRAND NAME, 15 MG",O,
+C9436,HCPC,"AZATHIOPRINE, PARENTERAL, BRAND NAME, PER 100 MG",O,
+C9437,HCPC,"CARMUSTINE, BRAND NAME, 100 MG",O,
+C9438,HCPC,"CYCLOSPORINE, ORAL, BRAND NAME, 100 MG",O,
+C9440,HCPC,"VINORELBINE TARTRATE, BRAND NAME, PER 10 MG",O,
+G0355,HCPC,CHEMO SQ/IM NONHORMONL AN,U,
+G0356,HCPC,HORMONAL ANTI-NEOPLASTIC,R,
+G0357,HCPC,"CHEMOTHERAPY IV PUSH, SINGLE/INITIAL DRUG",O,
+G0358,HCPC,CHEMOTHERAPY ADMINSTRATION OF EACH ADD. PUSHED CHEMO DRUG,O,
+G0359,HCPC,"CHEMO IV INFUS,UP TO 1 HR",U,
+G0360,HCPC,"CHEMO ADMIN IV INFUS, EA",U,
+G0361,HCPC,INIT PROLNG CHEMO INFUS R,U,
+G0362,HCPC,"CHEMOTHERAPY ADMINSTRATION OF EACH INFUSED CHEMO DRUG, UP TO 1 HR",O,
+G8371,HCPC,CHEMO DOC NOT RECV STG II,U,
+G8372,HCPC,CHEMO DOC RECV STAGE III,U,
+G8373,HCPC,CHEMO PLAN DOC PRIOR CHEM,U,
+G8374,HCPC,CHEMO PLAN NOT DOC PRIOR,U,
+G8381,HCPC,"For patients with er or pr positive, stage ic-iii breast cancer, clinician docum",H,
+G9021,HCPC,CHEMO ASSESS NV LEVL 1: N,U,
+G9022,HCPC,CHEMO ASSESS NV LEVL 2: L,U,
+G9023,HCPC,CHEMO ASSESS NV LEVL 3: Q,U,
+G9024,HCPC,CHEMO ASSESS NV LEVL 4: V,U,
+G9025,HCPC,CHEMO ASSESS PAIN LVL 1:,U,
+G9026,HCPC,CHEMO ASSESS PAIN LVL 2:,U,
+G9027,HCPC,CHEMO ASSESS PAIN LVL 3:,U,
+G9028,HCPC,CHEMO ASSESS PAIN LVL 4:,U,
+G9029,HCPC,CHEMO ASSESS FATIGUE 1: N,U,
+G9030,HCPC,CHEMO ASSESS FATIGUE LVL,U,
+G9031,HCPC,CHEMO ASSESS FATIGUE 3: Q,U,
+G9032,HCPC,CHEMO ASSESS FATIGUE LVL,U,
+J0128,HCPC,"INJECTION, ABARELIX, 10 MG",R,
+J0207,HCPC,"INJECTION, AMIFOSTINE, 500 MG",O,
+J0594,HCPC,"Injection, busulfan, 1 mg",O,
+J0640,HCPC,"INJECTION, LEUCOVORIN CALCIUM, PER 50 MG",O,
+J0641,HCPC,"INJECTION, LEVOLEUCOVORIN CALCIUM, 0.5 MG",O,
+J0894,HCPC,"INJECTION, DECITABINE, 1 MG",O,
+J1050,HCPC,"INJECTION, MEDROXYPROGESTERONE ACETATE, 100 MG",R,
+J1051,HCPC,"INJECTION, MEDROXYPROGESTERONE ACETATE, 50 MG",R,
+J1190,HCPC,"INJECTION, DEXRAZOXANE HYDROCHLORIDE, PER 250 MG",O,
+J1453,HCPC,"INJECTION, FOSAPREPITANT, 1 MG",O,
+J1675,HCPC,"Injection, histrelin acetate, 10 mcg",O,
+J1825,HCPC,"Injection, interferon beta-1a, 33 mcg",I,
+J1830,HCPC,"Injection interferon beta-1b, 0.25 mg (code may be used for Medicare when drug a",O,
+J1950,HCPC,INJECTION           LEUPROLIDE ACETATE  (FOR DEPOT) PER     3.75 MG,O,
+J3315,HCPC,"INJECTION, TRIPTORELIN PAMOATE, 3.75 MG",R,
+J3490,HCPC,UNCLASSIFIED DRUGS,O,
+J3590,HCPC,UNCLASSIFIED BIOLOGICS,R,
+J7150,HCPC,Prescription Oral Chemo Drug,O,
+J8510,HCPC,"Busulfan: oral, 2 mg",O,
+J8520,HCPC,"Capecitabine, oral, 150 mg",O,
+J8521,HCPC,"Capecitabine, oral, 500 mg",O,
+J8530,HCPC,"Cyclophosphamide: oral, 25 mg",O,
+J8540,HCPC,Dexamethasone oral 0.25mg,O,
+J8560,HCPC,"Etoposide; oral, 50 mg",O,
+J8565,HCPC,"Gefitinib, oral, 250 mg",O,
+J8600,HCPC,"Melphalan: oral, 2 mg",O,
+J8610,HCPC,"Methotrexate: oral, 2.5 mg",O,
+J8700,HCPC,"Temozolomide, oral, 5 mg",O,
+J8705,HCPC,"TOPOTECAN, ORAL, 0.25 MG",O,
+J8999,HCPC,"Prescription drug, oral, chemotherapeutic, NOS",U,
+J9000,HCPC,"Doxorubicin HCl, 10 mg",A,
+J9001,HCPC,"Doxorubicin HCl, all lipid formulations, 10 mg",A,
+J9010,HCPC,"Alemtuzumab, 10 mg",O,
+J9015,HCPC,"Aldesleukin, per single use vial",O,
+J9017,HCPC,"Arsenic trioxide, 1 mg",O,
+J9020,HCPC,"Asparaginase, 10,000 units",O,
+J9025,HCPC,"Injection, azacitidine, 1 mg",O,
+J9027,HCPC,"Injection, clofarabine, 1 mg",O,
+J9031,HCPC,"BCG live (intravesical), per instillation",O,
+J9033,HCPC,"INJECTION, BENDAMUSTINE HCL, 1 MG",O,
+J9035,HCPC,"Injection, bevacizumab, 10 mg",O,
+J9040,HCPC,"Bleomycin sulfate, 15 units",O,
+J9041,HCPC,"Injection, bortezomib, 0.1 mg",O,
+J9045,HCPC,"Carboplatin, 50 mg",O,
+J9050,HCPC,"Carmustine, 100 mg",O,
+J9055,HCPC,"Injection, cetuximab, 10 mg",O,
+J9060,HCPC,"Cisplatin, powder or solution, per 10 mg",O,
+J9062,HCPC,"Cisplatin, 50 mg",O,
+J9065,HCPC,"Injection, cladribine, per 1 mg",O,
+J9070,HCPC,"Cyclophosphamide, 100 mg",O,
+J9080,HCPC,"Cyclophosphamide, 200 mg",O,
+J9090,HCPC,"Cyclophosphamide, 500 mg",O,
+J9091,HCPC,"Cyclophosphamide, 1 g",O,
+J9092,HCPC,"Cyclophosphamide, 2 g",O,
+J9093,HCPC,"Cyclophosphamide, lyophilized, 100 mg",O,
+J9094,HCPC,"Cyclophosphamide, lyophilized, 200 mg",O,
+J9095,HCPC,"Cyclophosphamide, lyophilized, 500 mg",O,
+J9096,HCPC,"Cyclophosphamide, lyophilized, 1 g",O,
+J9097,HCPC,"Cyclophosphamide, lyophilized, 2 g",O,
+J9098,HCPC,"Cytarabine liposome, 10 mg",O,
+J9100,HCPC,"Cytarabine, 100 mg",O,
+00.10,ICD9,Implantation of chemotherapy agent,U,
+00.15,ICD9,"Immunotherapy, antineoplastic",I,
+0169T,CPT4,Stereotactic placement of infusion catheter(s) in the brain for delivery of ther,U,
+0519F,CPT4,"Planned chemotherapy regimen, including at a minimum: drug(s) prescribed, dose,",O,
+17.70,ICD9,intravenous infusion of clofarabine (17.70),O,
+36260,CPT4,Insertion of implantable intra-arterial infusion pump,U,
+36640,CPT4,"Arterial catheterization for prolonged infusion therapy (chemotherapy), cutdown",U,
+36823,CPT4,Insertion of arterial and venous cannula(s) for isolated extracorporeal circulat,U,
+4180F,CPT4,"Adjuvant chemotherapy referred, prescribed, or previously received for Stage III",O,
+50391,CPT4,Instillation(s) of therapeutic agent into renal pelvis and/or ureter through est,U,
+51720,CPT4,Bladder instillation of anticarcinogenic agent (including retention time),U,
+61215,CPT4,"Insertion of subcutaneous reservoir, pump or continuous infusion system for conn",U,
+61517,CPT4,Implantation of brain intracavitary chemotherapy agent (List separately in addit,U,
+62360,CPT4,Implantation or replacement of device for intrathecal or epidural drug infusion;,U,
+62361,CPT4,Implantation or replacement of device for intrathecal or epidural drug infusion;,U,
+62362,CPT4,Implantation or replacement of device for intrathecal or epidural drug infusion;,U,
+62365,CPT4,"Removal of subcutaneous reservoir or pump, previously implanted for intrathecal",U,
+90765,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U,
+90766,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U,
+90767,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U,
+90768,CPT4,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance",U,
+90772,CPT4,"Therapeutic, prophylactic or diagnostic injection (specify substance or drug): s",U,
+J9110,HCPC,"Cytarabine, 500 mg",O,
+J9120,HCPC,"Dactinomycin, 0.5 mg",O,
+J9130,HCPC,"Dacarbazine, 100 mg",O,
+J9140,HCPC,"Dacarbazine, 200 mg",O,
+J9150,HCPC,"Daunorubicin, 10 mg",A,
+J9151,HCPC,"Daunorubicin citrate, liposomal formulation, 10 mg",A,
+J9155,HCPC,INJECTION DEGARELIX 1 MG,R,
+J9160,HCPC,"Denileukin diftitox, 300 mcg",O,
+J9165,HCPC,"Diethylstilbestrol diphosphate, 250 mg",O,
+J9170,HCPC,"Docetaxel, 20 mg",O,
+J9171,HCPC,"Injection, docetaxel, 1 mg",O,
+J9178,HCPC,"Injection, epirubicin HCl, 2 mg",A,
+J9180,HCPC,"EPIRUBICIN HYDROCHLORIDE, 50 MG",A,
+J9181,HCPC,"Etoposide, 10 mg",O,
+J9182,HCPC,"Etoposide, 100 mg",O,
+J9185,HCPC,"Fludarabine phosphate, 50 mg",O,
+J9190,HCPC,"Fluorouracil, 500 mg",O,
+J9200,HCPC,"Floxuridine, 500 mg",O,
+J9201,HCPC,"Gemcitabine HCl, 200 mg",O,
+J9202,HCPC,"Goserelin acetate implant, per 3.6 mg",O,
+J9206,HCPC,"Irinotecan, 20 mg",O,
+J9207,HCPC,"INJECTION, IXABEPILONE, 1 MG",O,
+J9208,HCPC,"Ifosfamide, per 1 g",O,
+J9209,HCPC,"Mesna, 200 mg",O,
+J9211,HCPC,"Idarubicin HCl, 5 mg",A,
+J9212,HCPC,"Injection, interferon alfacon-1, recombinant, 1 mcg",O,
+J9213,HCPC,"Interferon alfa-2a, recombinant, 3 million units",O,
+J9214,HCPC,"Interferon alfa-2B, recombinant, 1 million units",O,
+J9215,HCPC,"Interferon alfa-N3, (human leukocyte derived), 250,000 IU",O,
+J9216,HCPC,"Interferon gamma-1B, 3 million units",O,
+J9217,HCPC,"Leuprolide acetate (for depot suspension), 7.5 mg",O,
+J9218,HCPC,"Leuprolide acetate, per 1 mg",O,
+J9219,HCPC,"Leuprolide acetate implant, 65 mg",O,
+J9225,HCPC,"Histrelin implant (Vantas), 50 mg",O,
+J9226,HCPC,"Histrelin implant (Supprelin LA), 50 mg",O,
+J9230,HCPC,"Mechlorethamine HCl, (nitrogen mustard), 10 mg",O,
+J9245,HCPC,"Injection, melphalan HCl, 50 mg",O,
+J9250,HCPC,"Methotrexate sodium, 5 mg",O,
+J9260,HCPC,"Methotrexate sodium, 50 mg",O,
+J9261,HCPC,"Injection, nelarabine, 50 mg",O,
+J9263,HCPC,"Injection, oxaliplatin, 0.5 mg",O,
+J9264,HCPC,"Injection, paclitaxel protein-bound particles, 1 mg",O,
+J9265,HCPC,"Paclitaxel, 30 mg",O,
+J9266,HCPC,"Pegaspargase, per single dose vial",O,
+J9268,HCPC,"Pentostatin, per 10 mg",O,
+J9270,HCPC,"Plicamycin, 2.5 mg",O,
+J9280,HCPC,"Mitomycin, 5 mg",O,
+J9290,HCPC,"Mitomycin, 20 mg",O,
+J9291,HCPC,"Mitomycin, 40 mg",O,
+J9293,HCPC,"Injection, mitoxantrone HCl, per 5 mg",O,
+J9300,HCPC,"Gemtuzumab ozogamicin, 5 mg",O,
+J9302,HCPC,"Injection, ofatumumab, 10 mg",O,
+J9303,HCPC,"Injection, panitumumab, 10 mg",O,
+J9305,HCPC,"Injection, pemetrexed, 10 mg",O,
+J9310,HCPC,"Rituximab, 100 mg",O,
+J9320,HCPC,"Streptozocin, 1 g",O,
+J9330,HCPC,"INJECTION, TEMSIROLIMUS, 1 MG",O,
+J9340,HCPC,"Thiotepa, 15 mg",O,
+J9350,HCPC,"Topotecan, 4 mg",O,
+J9355,HCPC,"Trastuzumab, 10 mg",H,
+J9357,HCPC,"Valrubicin, intravesical, 200 mg",O,
+J9360,HCPC,"Vinblastine sulfate, 1 mg",O,
+J9370,HCPC,"Vincristine sulfate, 1 mg",O,
+J9375,HCPC,"Vincristine sulfate, 2 mg",O,
+J9380,HCPC,"Vincristine sulfate, 5 mg",O,
+J9390,HCPC,"Vinorelbine tartrate, per 10 mg",O,
+J9395,HCPC,"Injection, fulvestrant, 25 mg",O,
+J9600,HCPC,"Porfimer sodium, 75 mg",O,
+J9999,HCPC,"NOC, antineoplastic drug",U,
+None,HCPC,"CAPECITABINE, 150 MG, ORAL",O,
+Q0083,HCPC,"Chemotherapy administration by other than infusion technique only (e.g., subcuta",U,
+Q0084,HCPC,"Chemotherapy administration by infusion technique only, per visit",U,
+Q0085,HCPC,Chemotherapy administration by both infusion technique and other technique(s) (e,U,
+Q2017,HCPC,"INJECTION, TENIPOSIDE, 50 MG",O,
+Q2020,HCPC,"INJECTION, HISTRELIN ACETATE, 10 MCG",O,
+Q2024,HCPC,"Injection, bevacizumab, 0.25 mg",O,
+Q3025,HCPC,"Injection, interferon beta-1a, 11 mcg for intramuscular use",I,
+Q3026,HCPC,"Injection, interferon beta-1a, 11 mcg for subcutaneous use",I,
+S0087,HCPC,"Alemtuzumab injection, 30 mg",O,
+S0088,HCPC,"Imatinib injection, 100 mg",O,
+S0115,HCPC,"BORTEZOMIB, 3.5 MG",O,
+S0116,HCPC,BEVACIZUMAB 100 MG,O,
+S0145,HCPC,"Injection, pegylated interferon alfa-2a, 180 mcg per ml",I,
+S0146,HCPC,"Injection, pegylated interferon alfa-2b, 10 mcg per 0.5 ml",I,
+S0165,HCPC,"INJECTION, ABARELIX, 100 MG",O,
+S0172,HCPC,"CHLORAMBUCIL, ORAL, 2MG",O,
+S0176,HCPC,"HYDROXYUREA, ORAL, 500MG",O,
+S0177,HCPC,"LEVAMISOLE HYDROCHLORIDE, ORAL, 50MG",I,
+S0178,HCPC,"LOMUSTINE, ORAL, 10MG",O,
+S0182,HCPC,"PROCARBAZINE HYDROCHLORIDE, ORAL, 50MG",O,
+S1016,HCPC,"vinyl chloride) intravenous administration set, for use with drugs that are not",U,
+S2107,HCPC,Adoptive immunotherapy i.e. development of specific anti-tumor reactivity (e.g.,I,
+S5019,HCPC,Chemotherapy admin supplies,O,
+S5020,HCPC,Chemotherapy admin supplies,O,
+S9329,HCPC,"Home infusion therapy, chemotherapy infusion: administrative services, professio",U,
+S9330,HCPC,"Home infusion therapy, continuous (24 hours or more) chemotherapy infusion: admi",U,
+S9331,HCPC,"Home infusion therapy, intermittent (less than 24 hours) chemotherapy infusion:",U,
